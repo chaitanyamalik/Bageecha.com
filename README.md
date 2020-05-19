@@ -5,19 +5,23 @@ While the basic structure of this application remains the same, I've added some 
 
 Home:
 ![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss1.PNG "Home")
+
 Cart:
 ![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss2.PNG "Cart")
+
 Checkout:
 ![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss3.PNG "Checkout")
+
 Admin:
 ![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss4.PNG "Products")
-![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss5.PNG "Orders")
 
-Caution: You will need to add some external modules to run this project. I'd advise you to take a look at the steps in the book if you are building this application.
+![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss5.PNG "Orders")
 
 Replace these files in your Angular project. You can create a new angular application by typing the following in your terminal.
 
-`ng new {app-name}` 
+`ng new {app-name}`
+
+Caution: You will need to add some external modules to run this project. I'd advise you to take a look at the steps in the book if you are building this application.
 
 After you've added these files to your project, We'll look how to run this project.
 First, open a new terminal and type
