@@ -3,7 +3,15 @@ This application is built using Angular and is inspired by SportsStore Applicati
 
 While the basic structure of this application remains the same, I've added some new components and played around with the overall look and feel of the website.
 
-Image goes here
+Home:
+![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss1.PNG "Home")
+Cart:
+![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss2.PNG "Cart")
+Checkout:
+![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss3.PNG "Checkout")
+Admin:
+![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss4.PNG "Products")
+![alt text](https://github.com/chaitanyamalik/Bageecha.com/blob/master/src/assets/images/ss5.PNG "Orders")
 
 Caution: You will need to add some external modules to run this project. I'd advise you to take a look at the steps in the book if you are building this application.
 
