@@ -28,7 +28,7 @@ First, open a new terminal and type
 
 `npm run json`
 
-Then, open a new terminal (with the previous one left running) and type
+Then, open another new terminal (with the previous one left running) and type
 
 `ng serve --port 3000 --open`
 
